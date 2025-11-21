@@ -1,7 +1,7 @@
 # Node modules
 node_modules/
 
-# Environment variables (API keys, JWT secrets)
+# Environment variables
 .env
 
 # Logs
@@ -9,7 +9,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Build output (if using build folder)
+
 dist/
 
 # OS files
